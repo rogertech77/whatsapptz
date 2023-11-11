@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ABHISHEK-SER
+    name: whatsapptz
     env: docker
-    region: Frankfurt
+    region: mbeya
     plan: free
