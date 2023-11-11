@@ -1,7 +1,7 @@
 { 
-    "name": "ABHISHEK-SER",
+    "name": "whatsapptz",
     "version": "0.0.1",
-    "description": "Customizable WhatsApp Bot",
+    "description": "pakua nyimbo na video na mimi",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
+    "homepage": "https://github.com/rogertech77/whatsapptz",
     "author": {
-        "name": "ABHISHEK SURESH"
+        "name": "whatsapptz"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AbhishekSuresh2/ABHISHEK-SER.git"
+        "url": "git+https://github.com/rogertech77/whatsapptz.git"
     },
     "bugs": {
-        "url": "https://github.com/AbhishekSuresh2/ABHISHEK-SER/issues"
+        "url": "https://github.com/rogertech77/whatsapptz/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
